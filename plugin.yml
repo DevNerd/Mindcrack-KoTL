@@ -1,5 +1,5 @@
 name: Mindcrack Marathon KotL
-version: 0.1
+version: 1
 description: King of the Ladder for the Mindcrack Marathon/
 author: Matthew Salsamendi
 
@@ -32,4 +32,7 @@ permissions:
      default: op
    kotl.configure:
      description: Allow player to set the spawn and ladder locations
+     default: op
+   kotl.mindcrack:
+     description: Allow player to stay in game if they day
      default: op
